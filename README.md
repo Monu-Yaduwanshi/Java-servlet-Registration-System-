@@ -1,6 +1,3 @@
-# Java-servlet-Registration-System-
-This project is a simple Registration System developed using Java Servlets, designed to capture user registration data and store it in a MySQL database. The application utilizes Apache Tomcat as the servlet container and is developed in Eclipse IDE.
-
 # Java Servlet Registration System
 
 This project is a simple Registration System developed using Java Servlets, designed to capture user registration data and store it in a MySQL database. The application utilizes Apache Tomcat as the servlet container and is developed in Eclipse IDE.
