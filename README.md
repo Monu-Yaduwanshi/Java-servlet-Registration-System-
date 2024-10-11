@@ -33,6 +33,7 @@ This project is a simple Registration System developed using Java Servlets, desi
    CREATE DATABASE registrationdata;
 Create a Student Table:
 Create a student table with the following columns:
+
 CREATE TABLE student (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100),
@@ -43,6 +44,7 @@ CREATE TABLE student (
     username VARCHAR(50) UNIQUE,
     password VARCHAR(100)
 );
+
 Deployment
 Import the Project into Eclipse:
 
