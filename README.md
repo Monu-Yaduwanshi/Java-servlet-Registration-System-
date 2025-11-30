@@ -78,6 +78,4 @@ Apache Tomcat Documentation.
 
 ### Key Features of this `README.md`:
 - Clearly outlines the project, its features, technologies used, setup instructions, and how to access the application.
-- Encourages contributions and includes additional resources for users.
 
-You can add this file to your GitHub repository to provide clarity and guidance for users interested in your project. Let me know if you need any adjustments or additional sections!
